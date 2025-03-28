@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: homer-dashboard
+name: Homer Dashboard
+tagline: homer dashboard for umbrel from xyStore
+icon: https://homer-demo.netlify.app/logo.png
+category: Development
+version: "1.0.0"
+port: 4000
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: Umbrel
+website: https://umbrel.com
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+releaseNotes: 
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
